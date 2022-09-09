@@ -2,7 +2,7 @@
 
 # 接口图如下：
 
-![image-20220909175236748](.\image-20220909175236748.png)
 
 
+![接口图](https://raw.githubusercontent.com/ohpder/douyin/main/image-20220909175236748.png)
 
