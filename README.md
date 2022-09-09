@@ -2,7 +2,7 @@
 
 # 接口图如下：
 
-![image-20220909175236748](C:\Users\MZY\AppData\Roaming\Typora\typora-user-images\image-20220909175236748.png)
+![image-20220909175236748](.\image-20220909175236748.png)
 
 
 
