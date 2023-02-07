@@ -1,5 +1,5 @@
-# 出抖音_signature，x-bogus，抖音滑块算法，纯python，作品发布算法,需要的联系QQ:784120107，可测试
-
+# 出抖音_signature，x-bogus，抖音滑块算法，纯python，作品发布算法,3K出全套，需要的联系QQ:404150449，可测试
+# 出抖音app端六神接口 X-Argus，X-Gorgon，X-Helios，X-Khronos，X-Ladon，X-Medusa    可测试
 # 接口图如下：
 
 
