@@ -4,5 +4,5 @@
 
 
 
-![接口图]([https://raw.githubusercontent.com/ohpder/douyin/main/image-20220909175236748.png](https://github.com/ohpder/douyin/blob/main/image.png))
+![接口图](https://github.com/ohpder/douyin/blob/main/image.png)
 
