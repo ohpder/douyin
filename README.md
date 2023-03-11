@@ -1,4 +1,4 @@
-# 出抖音__ac_signature,_signature，x-bogus，msToken, 抖音滑块算法，作品发布算法，(非登录/登录)cookie提取，纯python，需要的带价联系QQ:404150449，可测试
+# 出抖音__ac_signature,_signature，x-bogus，msToken, 抖音滑块算法，作品发布算法，(非登录/登录)cookie提取,抖音弹幕协议,纯python，需要的带价联系QQ:404150449，可测试
 # 出抖音 X-Argus，X-Gorgon，X-Helios，X-Khronos，X-Ladon，X-Medusa 生成
 # 来个老板5k全部带走
 # 接口图如下：
